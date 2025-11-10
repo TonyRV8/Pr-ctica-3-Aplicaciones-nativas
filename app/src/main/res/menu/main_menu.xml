@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_change_theme"
+        android:icon="@drawable/ic_palette"
+        android:title="Change Theme"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_show_favorites"
+        android:icon="@drawable/ic_favorite"
+        android:title="Show Favorites"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_history"
+        android:icon="@drawable/ic_history"
+        android:title="Recent Files"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_create_folder"
+        android:icon="@drawable/ic_create_folder"
+        android:title="Create Folder"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_paste"
+        android:icon="@drawable/ic_paste"
+        android:title="Paste"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_rename"
+        android:icon="@drawable/ic_rename"
+        android:title="Rename"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_copy"
+        android:title="Copy" />
+
+    <item
+        android:id="@+id/action_move"
+        android:title="Move" />
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete"
+        app:showAsAction="ifRoom" />
+
+</menu>

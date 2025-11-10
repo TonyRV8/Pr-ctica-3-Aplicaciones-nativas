@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Guinda IPN Theme (Light) -->
+    <color name="guinda_primary_light">#6B2E5F</color>
+    <color name="guinda_on_primary_light">#FFFFFF</color>
+
+    <!-- Azul ESCOM Theme (Light) -->
+    <color name="azul_primary_light">#003D6D</color>
+    <color name="azul_on_primary_light">#FFFFFF</color>
+</resources>

@@ -90,3 +90,13 @@ Nota Importante: La primera vez que inicies la aplicación, se te solicitará el
 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - siéntete libre de usarlo y modificarlo.
+
+![Imagen de WhatsApp 2025-11-10 a las 17 43 38_8d6e9ff5](https://github.com/user-attachments/assets/f725a6c1-a5e2-4dde-b01e-2180fac597dc)
+
+![Imagen de WhatsApp 2025-11-10 a las 17 43 38_059476d7](https://github.com/user-attachments/assets/eb4e84a5-54d4-4d42-a281-76b706a38722)
+
+![Imagen de WhatsApp 2025-11-10 a las 17 43 38_29bc5a5d](https://github.com/user-attachments/assets/186dbe3f-b0a9-48fc-8286-8baeaa92fabd)
+
+![Imagen de WhatsApp 2025-11-10 a las 17 43 38_15ff0bf4](https://github.com/user-attachments/assets/cee21e92-dc4b-4a20-8fa3-2bdb0d3d4113)
+
+
